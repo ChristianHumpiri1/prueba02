@@ -1,6 +1,10 @@
 section {
     display: table;
   }
+  .example-container{
+    text-align: center;
+  
+  }
   
   .example-label {
     display: table-cell;
